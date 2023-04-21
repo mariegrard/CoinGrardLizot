@@ -4,9 +4,10 @@
        
        
        Pour lancer le jeu, il faut utilser les classes combat, jeu, testdirection, teampannel, tealmpannelcombat, interfaceattaque, interfaceattaque2,
-       pokemon, dresseur, type, utilitaire, coordinates, team. Elles sont situées dans le répertoire ...
-      
+       pokemon, dresseur, type, utilitaire, coordinates, team. Elles sont situées dans le répertoire jeu.
        
+       Le répertoire data contient les fichiers pokemon_first_gen et pokemon_coordinates.
+
        Testdirection n'est pas est un test mais permet de se déplacer sur la carte.
        
        Pokemon, dresseur et team servent à coder fonction la fonction d'attaque. interfaceattaque permet de faire un combat avec 4 attaques différentes; 
